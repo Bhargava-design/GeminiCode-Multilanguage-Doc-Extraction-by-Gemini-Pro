@@ -2,6 +2,11 @@
 
 ---
 
+Doc: [SI-5283-1727165652.pdf](https://github.com/user-attachments/files/17113885/SI-5283-1727165652.pdf)
+
+Video_Link: https://youtu.be/2J4hEE8cBoI?feature=shared
+
+ 
 #### 1. **GeminiDecode: Multilanguage Document Extraction by Gemini Pro**
 
 "GeminiDecode" is a project focused on extracting, processing, and querying text from PDFs in multiple languages using Google's Gemini Pro AI model. The core goal is to allow users to upload PDF documents in any language, process the text content, store it, and ask questions based on the extracted information. The system then uses a combination of machine learning and natural language processing (NLP) to generate answers from the context of these documents.
@@ -170,4 +175,12 @@ Once the application is running, upload your PDF files through the provided inte
 
 ---
 
-This documentation covers all aspects of "GeminiDecode: Multilanguage Document Extraction by Gemini Pro" to help you understand, deploy, and run the project efficiently.
+Outputs:
+
+![Screenshot 2024-09-24 170630](https://github.com/user-attachments/assets/c2f6e202-247e-4f32-a9e0-9aa6b0d28419)
+
+![Screenshot 2024-09-24 170331](https://github.com/user-attachments/assets/61e4773b-5379-490f-8d90-59ca9ee8fdf0)
+
+![Screenshot 2024-09-24 170501](https://github.com/user-attachments/assets/f2db1c5b-34b3-4fb4-be0b-df883e9a8a28)
+
+![Screenshot 2024-09-24 170307](https://github.com/user-attachments/assets/bd05dd6b-bf84-4e0f-a643-2ca41d397156)
